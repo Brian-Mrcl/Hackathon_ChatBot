@@ -98,7 +98,7 @@ def index_documents():
             print(f"➡ Embedding chunk :\n{chunk[:100]}...\n")
             embedding = get_embedding(chunk)
             doc = {
-                "id": str(uuid.uuid4()),
+                "chunk_id": str(uuid.uuid4()),
                 "content": chunk,
                 "content_vector": embedding
             }
