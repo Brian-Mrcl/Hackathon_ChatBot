@@ -83,8 +83,6 @@ Hackathon_ChatBot/
 
 ## 🧩 À venir / idées bonus
 - Ajout de filtre par contrôle / catégorie
-- Chat en continu (multi-turn)
-- Support multi-documents (Annexe A, B, etc)
 
 ---
 
